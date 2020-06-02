@@ -1,0 +1,22 @@
+#!/bin/sh
+#####
+#Mount the .dmg file
+#####
+
+hdiutil attach ampmac_connector.dmg
+
+######
+#Execute the Apple notarized Mac Connector package file
+######
+
+sudo installer -pkg /Volumes/ampmac_connector/ciscoampmac_connector.pkg -target /
+
+#####
+#Un-mount the .dmg file
+######
+
+hdiutil detach /Volumes/ampmac_connector
+
+
+
+exit 0      ## Success
