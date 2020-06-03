@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #####################################################################################################
 #
 # ABOUT THIS PROGRAM
@@ -10,15 +10,7 @@
 #   sudo AdobeReaderUpdate.sh
 #
 ####################################################################################################
-#
-# HISTORY
-#
-#   Version: 1.1
-#
-#   - v.1.0 Joe Farage, 23.01.2015
-#   - v.1.1 Joe Farage, 08.04.2015 : support for new Adobe Acrobat Reader DC
-#
-####################################################################################################
+
 # Script to download and install Adobe Reader.
 # Only works on Intel systems.
 
