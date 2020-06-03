@@ -4,10 +4,10 @@
 # ABOUT THIS PROGRAM
 #
 # NAME
-#   AdobeReaderUpdate.sh -- Installs or updates Adobe Acrobat Reader DC
+#   AdobeReaderDCUpdater.sh -- Installs or updates Adobe Acrobat Reader DC
 #
 # SYNOPSIS
-#   sudo AdobeReaderUpdate.sh
+#   sudo AdobeReaderDCUpdater.sh
 #
 ####################################################################################################
 
