@@ -24,5 +24,5 @@ sleep 05
 echo "Opening Outlook Search Repair"
 open -a /private/tmp/OutlookSearchRepair/OutlookSearchRepair.app
 
-echo "Repair Utillity started"
+echo "Repair Utility started"
 exit 0
